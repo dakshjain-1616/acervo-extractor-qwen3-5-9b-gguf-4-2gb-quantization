@@ -1,5 +1,6 @@
 # acervo-extractor-qwen3.5-9b — GGUF Q4_K_M (4.7 GB) · 12% faster · 8 GB RAM
-> *Made autonomously using [NEO](https://heyneo.so) — your autonomous AI Agent · [![Install NEO](https://img.shields.io/badge/VS%%20Code-Install%%20NEO-7B61FF?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=NeoResearchInc.heyneo)*
+
+> *Made autonomously using [NEO](https://heyneo.so) — your autonomous AI Agent · [![Install NEO](https://img.shields.io/badge/VS%20Code-Install%20NEO-7B61FF?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=NeoResearchInc.heyneo)*
 
 Quantizes [`SandyVeliz/acervo-extractor-qwen3.5-9b`](https://huggingface.co/SandyVeliz/acervo-extractor-qwen3.5-9b) to **GGUF Q4_K_M** and **Q8_0** using llama.cpp, benchmarks perplexity and inference speed against the float16 weights, and produces a full Markdown comparison report.
 
