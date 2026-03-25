@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.env
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Results / outputs
+results/
+demo_results/
+outputs/
+*.log
+*.csv
+*.json
+
+# External dependencies
+llama.cpp/
+
+# Generated exports / HF card artifacts
+hf_exports/
+
+# Model cache / downloaded models
+output/
+
+
+# IDE / editor
+.idea/
+.vscode/
+.claude/
+*.swp
