@@ -38,21 +38,21 @@ Most quantization tools are generic. This one is a **pre-packaged, benchmarked a
 
 ### Performance Overview — Perplexity · Speed · Size
 
-![Quantization Overview](outputs/infographic_overview.png)
+![Quantization Overview](assets/infographic_overview.png)
 
 ### Quality vs Speed vs Size Tradeoff
 
-![Tradeoff Chart](outputs/infographic_tradeoff.png)
+![Tradeoff Chart](assets/infographic_tradeoff.png)
 
 Each bubble is a quantization tier; **bubble size = file size on disk**. Q4_K_M lands at the optimal sweet spot — dramatically smaller file with minimal quality loss.
 
 ### RAM / VRAM Requirements
 
-![Memory Requirements](outputs/infographic_memory.png)
+![Memory Requirements](assets/infographic_memory.png)
 
 ### Pipeline Architecture
 
-![Pipeline Architecture](outputs/infographic_pipeline.png)
+![Pipeline Architecture](assets/infographic_pipeline.png)
 
 ---
 
